@@ -8,7 +8,7 @@
     "bot": "node src/bot.js"
   },
   "dependencies": {
-    "ccxt": "^4.0.0",
-    "axios": "^1.6.0"
+    "axios": "^1.13.6",
+    "ccxt": "^4.0.0"
   }
 }
