@@ -1,0 +1,14 @@
+{
+  "name": "auto-earn",
+  "version": "1.0.0",
+  "description": "Automated crypto monitoring and trading",
+  "main": "src/bot.js",
+  "scripts": {
+    "monitor": "node src/monitor.js",
+    "bot": "node src/bot.js"
+  },
+  "dependencies": {
+    "ccxt": "^4.0.0",
+    "axios": "^1.6.0"
+  }
+}
